@@ -1,0 +1,5 @@
+1. Image render
+2. 3D speed dist. of all stars in host halo (except satellite galaxies)
+3. 3D speed dist. after disk cut out (Prateek's suggestion)
+4. 3D speed dist. after ang mom decomposition
+5. LOS velocity dist. in each case (face on and side on)
